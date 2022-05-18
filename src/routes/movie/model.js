@@ -11,7 +11,8 @@ const movies = [
   { name: '1+1', country: 'France', year: 2011, rating: 8.8 },
   { name: 'Криминальное чтиво', country: 'USA', year: 1994, rating: 8.7 },
   { name: 'Иван Васильевич меняет профессию', country: 'USSR', year: 1973, rating: 8.7 },
-  { name: 'Матрица', country: 'USA', year: 1999, rating: 8.5 }
+  { name: 'Матрица', country: 'USA', year: 1999, rating: 8.5 },
+  { name: 'Человек паук', country: 'USA', year: 2002, rating: 8.1 },
 ]
 
 export default {
@@ -55,3 +56,5 @@ export default {
     return null
   }
 }
+
+
