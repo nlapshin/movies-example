@@ -13,6 +13,8 @@ const movies = [
   { name: 'Иван Васильевич меняет профессию', country: 'USSR', year: 1973, rating: 8.7 },
 ]
 
+console.log('linux')
+
 export default {
   list() {
     return movies
